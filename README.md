@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there :computer:
 
 Eu sou Vinícius, sou um programador Front-End, atualmente estou aprendendo e criando projetos com:
 <br>
